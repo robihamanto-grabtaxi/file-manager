@@ -1,4 +1,4 @@
-This repo is meant for testing only.
+This repo is meant for testing only and all file in this repo is available to access by public.
 Book receipt source:
 
 Easy recipes
