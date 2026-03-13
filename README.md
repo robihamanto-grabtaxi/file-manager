@@ -27,3 +27,16 @@ Stadt Regensburg
 https://www.regensburg.de › sixcms › media.php
 PDF
 By providing an easy to follow recipe about each region's most famous dish, we invite you to taste a delicious heritage. Have fun, and enjoy trying out our ...Read more
+
+
+---
+
+URL for testing
+
+PNG: 
+https://raw.githubusercontent.com/robihamanto-grabtaxi/file-manager/refs/heads/main/grab.png
+
+PDF:
+https://raw.githubusercontent.com/robihamanto-grabtaxi/file-manager/main/indian_state_18mb.pdf
+https://raw.githubusercontent.com/robihamanto-grabtaxi/file-manager/main/js_bridge_testing.pdf
+https://github.com/robihamanto-grabtaxi/file-manager/raw/main/js_bridge_testing.pdf 
